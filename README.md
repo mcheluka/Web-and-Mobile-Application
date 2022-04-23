@@ -44,3 +44,9 @@ React Native >= 0.61
 Environment setup
 Follow the steps of the official React Native documentation to setup your development environment. Since we are using native modules, we need to follow the React Native CLI Quickstart guide.
 run npm start on the mobile directory and the frontend app will start running on port 3000. Then, proceed to use a virtual or real device to test how it communicates with the backend.
+
+Preview (videos) of web application and Mobile application:
+https://user-images.githubusercontent.com/98037275/164861483-e346fdbb-d975-4a75-902d-8fa74a805aa0.mp4
+
+https://user-images.githubusercontent.com/98037275/164861753-6acf3084-6575-4c18-aa47-fd212448f464.mp4
+
